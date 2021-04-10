@@ -1,0 +1,25 @@
+{
+  "name": "mosqueiro",
+  "version": "1.0.0",
+  "description": "Informações sobre a Ilha de Mosqueiro-PA",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moka-soft/mosqueiro.git"
+  },
+  "author": "Atila Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moka-soft/mosqueiro/issues"
+  },
+  "homepage": "https://github.com/moka-soft/mosqueiro#readme",
+  "devDependencies": {
+    "dotenv-webpack": "^7.0.2",
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {}
+}
